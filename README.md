@@ -1,6 +1,6 @@
 # Power Platform Learning Path
 
-This document outlines a structured learning path for mastering Microsoft Power Platform, starting with understanding its global value, followed by a detailed learning path for the PL-900 certification, and then diving into creating apps with Power Apps and automating processes with Power Automate.
+This document outlines a structured learning path for mastering Microsoft Power Platform, starting with understanding its global value, followed by a detailed learning path for the PL-900 certification, diving into creating apps with Power Apps, automating processes with Power Automate, and building websites with Power Pages.
 
 ## Understanding the Global Value of Power Platform
 
@@ -17,7 +17,6 @@ Begin your journey by understanding what Power Platform is and its components' v
 Dive into app creation within Power Platform, starting with the basics and moving to more advanced concepts.
 
 - [Introduction to Power Apps](https://learn.microsoft.com/en-us/training/modules/introduction-power-apps/)
-- [Power Pages Online Workshop](https://learn.microsoft.com/en-us/training/paths/power-pages-online-workshop/)
 - [Customize Apps in PowerApps](https://learn.microsoft.com/en-us/training/modules/customize-apps-in-powerapps/)
 - [Get Started with Model-driven Apps in PowerApps](https://learn.microsoft.com/en-us/training/modules/get-started-with-model-driven-apps-in-powerapps/)
 - [Publish, Share, and Maintain Your App](https://learn.microsoft.com/en-us/training/modules/publish-share-maintain-app/)
@@ -35,6 +34,12 @@ Learn how to automate workflows between your apps and services to sync files, ge
 - [Manage User Information](https://learn.microsoft.com/en-us/training/modules/manage-user-information/)
 - [Introduction to Power Automate](https://learn.microsoft.com/en-us/training/modules/introduction-power-automate/)
 - [Work with Multiple Data Sources](https://learn.microsoft.com/en-us/training/modules/multiple-data-sources/)
+
+### Power Pages
+
+Build engaging and powerful websites seamlessly integrated with the Power Platform ecosystem.
+
+- [Power Pages Online Workshop](https://learn.microsoft.com/en-us/training/paths/power-pages-online-workshop/)
 
 ---
 
